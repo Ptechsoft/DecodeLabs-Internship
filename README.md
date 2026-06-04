@@ -51,7 +51,7 @@ ai_chatbot.py
 
 ---
 
-## Project 2 Data Classification Using AI
+## Project: 2 Data Classification Using AI
 
 ### Description
 A supervised machine learning pipeline that classifies Iris flowers into 3 species (Setosa, Versicolor, Virginica) using the K-Nearest Neighbors algorithm. Achieves a perfect 100% F1 Score on the test set.
@@ -98,7 +98,7 @@ pip install numpy pandas matplotlib scikit-learn jupyter
 
 ---
 
-## 🔍 Project 3 AI Job Recommendation Engine
+## 🔍 Project 3: AI Job Recommendation Engine
 
 ### Description
 An intelligent career recommendation system that matches a user's skills to the top 3 most suitable tech job roles using TF-IDF weighting and Cosine Similarity the same core technology behind search engines and recommendation systems.
@@ -136,7 +136,7 @@ pip install pandas jupyter
 
 ---
 
-## Project 4 Image & Object Detection Pipeline
+## Project 4: Image & Object Detection Pipeline
 
 ### Description
 A computer vision pipeline that detects and identifies objects in images using the pre-trained MobileNet-SSD deep learning model. The system pre-processes images, runs them through the neural network, and draws labeled bounding boxes around all detected objects above 80% confidence.
