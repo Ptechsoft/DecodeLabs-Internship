@@ -31,7 +31,7 @@ A fully interactive terminal based AI chatbot built using pure Python control fl
 - Milestone messages at 5, 10, and 20 messages
 
 ### Screenshot
-![Project 1 DecoBot Chatbot] 
+![Project 1: DecoBot Chatbot] 
 ![alt text](screenshot_project1.png)
 
 ### How to Run
@@ -73,9 +73,9 @@ A supervised machine learning pipeline that classifies Iris flowers into 3 speci
 | False Negatives (FN) | 0 |
 
 ### Screenshots
-![Project 2 F1 Score 100%] ![alt text](screenshot_project2_f1.png)
+![Project 2: F1 Score 100%] ![alt text](screenshot_project2_f1.png)
 
-![Project 2 - Confusion Matrix] ![alt text](screenshot_project2_matrix.png)
+![Project 2: Confusion Matrix] ![alt text](screenshot_project2_matrix.png)
 
 ### How to Run
 ```bash
@@ -112,7 +112,7 @@ An intelligent career recommendation system that matches a user's skills to the 
 - Interactive user input cell for custom skill testing
 
 ### Screenshot
-![Project 3 - Job Recommender Output] ![alt text](screenshot_project3.png)
+![Project 3: Job Recommender Output] ![alt text](screenshot_project3.png)
 
 ### How to Run
 ```bash
@@ -156,7 +156,7 @@ A computer vision pipeline that detects and identifies objects in images using t
 | Car | 99.4% |
 
 ### Screenshot
-![Project 4 - Object Detection Output] ![alt text](screenshot_project4.png)
+![Project 4: Object Detection Output] ![alt text](screenshot_project4.png)
 
 ### How to Run
 ```bash
